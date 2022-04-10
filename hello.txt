@@ -16,4 +16,5 @@ hello world! Hello git!
 hello world! Hello git!  master test
 hello world! Hello git! hot-fix test6
 admin 123456
-lth 123456 by lth
+happyshare-lth by lth
+
